@@ -17,6 +17,7 @@ The Loan Prediction Application leverages Big Data technologies and machine lear
 ---
 
 ## System Architecture
+![image](https://github.com/user-attachments/assets/508e7bb6-b731-461b-965f-1ceedb6ca04c)
 
 ### Data Flow
 1. **User Input**: Loan application data is submitted through a web app.
